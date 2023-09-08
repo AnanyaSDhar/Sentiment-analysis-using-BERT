@@ -54,7 +54,6 @@ Text preprocessing is traditionally an important step for natural language proce
 
 * Creating a flask app for better user interaction with the model
 * Deployment of the model using Heroku.
-* Creating a database for storing the input and prediction value
 
 
 
